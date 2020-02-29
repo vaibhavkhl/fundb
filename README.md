@@ -1,2 +1,2 @@
 # fundb
-Writing database for fun in golang
+Writing database in golang for fun
